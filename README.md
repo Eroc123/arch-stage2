@@ -42,6 +42,7 @@ Run install.sh
 - Tap to click, Palm detection, and Natural Scrolling
     - Two finger leftclick
     - Three for middle click
+
 ## Appearance
 
 - qt5ct - Configuration utility for Qt applications
@@ -52,6 +53,7 @@ Run install.sh
 - Weather Icons - For the weather module in the bar
 
 ## Utilities
+
 - nano - text editor
 - PCManFM - A graphical light-weight file manager
 - spectacle - KDE's screenshot utility, which can run CLI commands that are bound to keys
@@ -62,7 +64,8 @@ Run install.sh
 - Firefox browser
 - cava - Audio spectrum viewer
 
-##Shell
+## Shell
+
 - zsh
 
 Inspired from https://github.com/mlgomez/arch-stage2
